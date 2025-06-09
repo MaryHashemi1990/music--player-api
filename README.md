@@ -6,8 +6,6 @@ Created - 2025
 
 Technologies Used : Html , css , tailwind , javaScript , API
 
-Features : local storege
-
 Role - Frontend
 
 How to reach me : with my gmail marzieh.hashemi1990@gmail.com
