@@ -4,7 +4,7 @@ Developed by “ Marzieh Hashemi ”
 
 Created - 2025
 
-Technologies Used : Html , css , tailwind , javaScript
+Technologies Used : Html , css , tailwind , javaScript , API
 
 Features : local storege
 
